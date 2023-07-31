@@ -1,6 +1,6 @@
 # Memogalo - Swift iOS
 
-#English
+English
   Tic-Tac-Toe and Memory Game
   
   Allows choosing between both.
@@ -11,9 +11,10 @@
   Files:
     Memogalo.zip with the complete compressed project.
     Memogalo folder with the various project folders.
+    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-#Português
+Português
   Jogo do Galo e Jogo da Memória
   
   Permite escolher entre ambos.
