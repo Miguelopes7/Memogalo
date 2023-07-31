@@ -1,6 +1,7 @@
 # Memogalo - Swift iOS
 
 English
+
   Tic-Tac-Toe and Memory Game
   
   Allows choosing between both.
@@ -15,6 +16,7 @@ English
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Português
+
   Jogo do Galo e Jogo da Memória
   
   Permite escolher entre ambos.
